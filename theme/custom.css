@@ -25,3 +25,14 @@ blockquote {
 .post {
 	padding: 20px;
 }
+
+input {
+	background-color: #f4f0ed;
+	border-color: #a58c61;
+	color: #333;
+	border: 1px solid;
+}
+input:focus,
+input:hover {
+	border-color: #b70c09;
+}
