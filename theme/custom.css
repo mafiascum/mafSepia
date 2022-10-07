@@ -36,3 +36,7 @@ input:focus,
 input:hover {
 	border-color: #b70c09;
 }
+
+.activity-overview th span {
+	color: #B28449;
+}
